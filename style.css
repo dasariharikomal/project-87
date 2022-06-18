@@ -1,0 +1,25 @@
+.body_backgorund 
+{
+    background-image:url("https://img.redbull.com/images/c_crop,w_675,h_448,x_60,y_0,f_auto,q_auto/c_scale,w_1500/redbullcom/2017/03/23/1331850497629_2/uma-lista-com-os-melhores-jogos-de-power-rangers");
+    background-position:center;
+    background-size:cover;
+}
+#myCanvas
+{
+    border-width:10px;
+    background-color: rgb(123, 221, 224); 
+    border-style:ridge;
+}
+
+h3
+{
+	width: 1000px;
+	background-color: rgb(0, 255, 255);
+	display: inline-block;
+}
+
+
+
+
+
+
